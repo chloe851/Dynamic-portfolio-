@@ -61,9 +61,9 @@
     document.getElementById('current-year').textContent = new Date().getFullYear();
 
     const skillInfo = {
-      HTML: 'HTML (HyperText Markup Language) defines the structure of web content.',
-      CSS: 'CSS (Cascading Style Sheets) styles the look and layout of websites.',
-      JavaScript: 'JavaScript brings interactivity to web pages.'
+      HTML 
+      CSS
+      JavaScript 
     };
 
     document.querySelectorAll('.skill-btn').forEach((btn) => {
