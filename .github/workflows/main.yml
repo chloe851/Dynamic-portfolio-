@@ -107,14 +107,13 @@ body {
     font-family
     margin
     background-color
-    color: #333
-    line-height: 1.6;
-    padding-bottom: 50px;
-    transition: background-color 0.3s ease, color 0.3s ease;
+    color
+    line-height
+    
 }
 
 body.dark-mode {
-    background-color: #222;
+    background-color
     color: #eee;
 }
 
