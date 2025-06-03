@@ -105,9 +105,9 @@
 </html>
 body {
     font-family
-    margin: 0;
-    background-color: #e0f2f7;
-    color: #333;
+    margin
+    background-color
+    color: #333
     line-height: 1.6;
     padding-bottom: 50px;
     transition: background-color 0.3s ease, color 0.3s ease;
